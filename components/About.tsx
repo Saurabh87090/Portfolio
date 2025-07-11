@@ -38,7 +38,7 @@ const About = () => {
             user interfaces. I believe in turning ideas into clean, <br className="hidden sm:block" />
             interactive, and meaningful digital experiences. <br className="hidden sm:block" />
             I give my 100% to every pixel and every line of code. <br className="hidden sm:block" />
-            I'm currently mastering the full stack, with a strong grip <br className="hidden sm:block" />
+            {"I'm currently mastering the full stack, with a strong grip "}<br className="hidden sm:block" />
             on Next.js, React, and Tailwind CSS. <br className="hidden sm:block" />
            { "For me, code isn’t just syntax — it’s art, energy, and evolution."}
           </p>

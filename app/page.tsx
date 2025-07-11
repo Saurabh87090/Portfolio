@@ -1,6 +1,6 @@
 // ✅ DO NOT use dynamic unless needed
 import Navbar from "@/components/Navbar";
-import Main from "@/components/Main";
+import Hero from "@/components/Hero";
 import About from "@/components/About";
 import Skills from "@/components/Skills";
 import Projects from "@/components/Projects";
@@ -11,7 +11,7 @@ export default function Home() {
   return (
     <main>
       <Navbar />
-      <Main />
+      <Hero />
       <About />
       <Skills />
       <Projects />
