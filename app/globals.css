@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+
+:root {
+  --font-inter: 'Inter', sans-serif;
+  --font-fira: 'Fira Code', monospace;
+  --font-boogaloo: 'Boogaloo', cursive;
+}
+
+body {
+  background-color:#1b1f27  ;
+  font-family: var(--font-inter); /* default font */
+}
+
+.code-text {
+  font-family: var(--font-fira); /* for code blocks */
+}
+
+.title {
+  font-family: var(--font-boogaloo); /* for headings */
+}
+
