@@ -4,6 +4,7 @@ import Image from "next/image";
 
 const About = () => {
   return (
+    
     <div className="bg-[#2c323d] py-20 px-6 md:px-16 lg:px-34">
       <div className="flex flex-col items-center justify-between max-w-full gap-12 mx-auto lg:flex-row">
         
