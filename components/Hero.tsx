@@ -2,6 +2,7 @@ import React from "react";
 import Image from "next/image";
 const Hero = () => {
   return (
+    
       <div className="bg-gradient-to-r from-[#1b1f27] to-[#282d37] py-30 px-6 md:px-10 lg:px-34">
         <div className="flex flex-col-reverse items-center justify-between max-w-full gap-10 mx-auto lg:flex-row">
           {/* Left Section */}
