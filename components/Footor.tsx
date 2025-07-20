@@ -9,6 +9,7 @@ const linkStyle =
 
 const Footor = () => {
   return (
+    
     <div className="bg-[#1b1f27]">
       {/* Top Footer */}
       <div className="flex flex-row items-center gap-10 px-6 py-16 md:justify-between md:gap-8 md:px-24 lg:px-45">
