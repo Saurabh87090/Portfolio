@@ -32,6 +32,7 @@ const projects = [
 
 const Projects = () => {
   return (
+    
     <div className="bg-[#2c323d] py-30 px-8 md:px-45">
       <div className="flex items-center text-5xl font-bold text-white pl-7 md:mb-12 md:px-45">
         <h1>
