@@ -19,7 +19,6 @@ export default function Navbar() {
   if (!mounted) return null;
 
   return (
-    
     <nav className="fixed top-0 left-0 w-full z-50 bg-gradient-to-r from-[#1b1f27] to-[#282d37] text-white">
       <div className="flex items-center justify-between px-6 py-6 lg:px-34">
         {/* Logo */}
